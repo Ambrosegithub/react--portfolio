@@ -23,8 +23,9 @@
 }
 
 .about__me-image:hover {
-    transform: rotate(-10deg);
+    transform: rotate(0);
     transition: var(--transition);
+    background: var(--color-bg-variant);
 }
 
 .about__cards {
@@ -104,6 +105,6 @@
         text-align: center;
     }
     .about__content p {
-        margin: 1.5rem 0;
+        margin: 1.5rem 0 3rem 0;
     }
 }

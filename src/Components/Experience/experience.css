@@ -1,3 +1,11 @@
+#Experience {
+    margin-top: 4.4rem;
+}
+
+#Experience h5 {
+    margin-bottom: 2.4rem;
+}
+
 .experience__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -42,8 +50,13 @@
 
 /*################# MEDIUM DEVICES ################# */
 @media screen and (max-width: 1024px) {
+    #Experience {
+        margin-top: 10.4rem;
+    }
+
     .experience__container {
         grid-template-columns: 1fr;
+        margin-top: 2rem;
     }
 
     .experience__container > div {
@@ -59,7 +72,16 @@
 
 /*################# SMALL DEVICES ################# */
 @media screen and (max-width: 600px) {
+    #Experience {
+        margin-top: 6rem;
+    }
+
    .experience__container {
-    gap: ;
+    gap: 1rem;
+   }
+
+   .experience__container > div {
+    width: 100%;
+    padding: 2rem 1rem;
    }
 }

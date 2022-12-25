@@ -1,11 +1,11 @@
-import React from 'react'
-import {BsLinkedin} from 'react-icons/bs'
-import {FaGithub} from 'react-icons/fa'
-import {AiFillTwitterCircle} from 'react-icons/ai'
-import {FaFacebook} from 'react-icons/fa'
-import {FiDribbble} from 'react-icons/fi'
+import React from 'react';
+import { BsLinkedin } from 'react-icons/bs';
+import { FaGithub } from 'react-icons/fa';
+import { AiFillTwitterCircle } from 'react-icons/ai';
+import { FaFacebook } from 'react-icons/fa';
+import { FiDribbble } from 'react-icons/fi';
 
-const Header_socials = () => {
+const HeaderSocials = () => {
   return (
     <div className='header_socials'>
         <a href="https://www.linkedin.com/in/ambrose-isigba/" target="_blank"><BsLinkedin /></a>
@@ -17,4 +17,4 @@ const Header_socials = () => {
   )
 }
 
-export default Header_socials
+export default HeaderSocials

@@ -72,7 +72,7 @@
 /* ################# SMALL DEVICES ################# */
 @media screen and (max-width: 600px) {
   #Experience {
-    margin-top: 6rem;
+    margin-top: 20rem;
   }
 
   .experience__container {

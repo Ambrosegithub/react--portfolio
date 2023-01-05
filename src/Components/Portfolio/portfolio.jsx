@@ -5,7 +5,7 @@ import image2 from '../../assets/redux2.png'
 import image3 from '../../assets/redux3.png'
 import image4 from '../../assets/redux4.png'
 import image5 from '../../assets/redux5.png'
-import image6 from '../../assets/redux6.png'
+import image6 from '../../assets/rubyrails.png'
 
 const projectCards = [
   {
@@ -47,8 +47,8 @@ const projectCards = [
       id: 6,
       image: image6,
       title: 'This App allow you to perform your basic arithmetic operations',
-      github: 'https://github.com/Ambrosegithub/js-calculator',
-      demo: 'http://127.0.0.1:5500/'
+      github: 'https://github.com/Ambrosegithub/Budgetary-App',
+      demo: 'https://hidden-island-72337.herokuapp.com/'
   }
 ]
 

@@ -7,7 +7,8 @@ header {
 .header__container {
   text-align: center;
   height: 100%;
-  position: relative;
+
+  /* position: relative; */
 }
 
 /* ################## CTA ################# */
@@ -75,5 +76,17 @@ header {
   .header_socials,
   .scroll__down {
     display: none;
+  }
+
+  .me {
+    background: linear-gradient(var(--color-primary), transparent);
+    width: 70%;
+    height: 20rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin: 2rem 12%;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 4rem 1.5rem;
   }
 }

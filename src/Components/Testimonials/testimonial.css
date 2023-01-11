@@ -21,8 +21,9 @@
   text-align: center;
   padding: 2rem;
   border-radius: 2rem;
+
   /* stylelint-disable-next-line csstree/validator */
-  user-select: none;
+  -webkit-user-select: none;
 }
 
 .client_review {

@@ -1,16 +1,16 @@
 import React from 'react';
 import './footer.css';
-import {FaFacebookF} from 'react-icons/fa';
-import {FaInstagramSquare} from 'react-icons/fa';
-import {AiFillTwitterSquare} from 'react-icons/ai';
-import {BsGithub} from 'react-icons/bs';
-import {SiTiktok} from 'react-icons/si';
-import {BsLinkedin} from 'react-icons/bs'
+import { FaFacebookF } from 'react-icons/fa';
+import { FaInstagramSquare } from 'react-icons/fa';
+import { AiFillTwitterSquare } from 'react-icons/ai';
+import { BsGithub } from 'react-icons/bs';
+import { SiTiktok } from 'react-icons/si';
+import { BsLinkedin } from 'react-icons/bs';
 
 const Footer = () => {
   return (
-    <footer id='Footer'>
-    <a href="#" className='footer__logo'>AMBROSE's CODELAB</a>
+    <footer id="Footer">
+    <a href="#" className="footer__logo">AMBROSE's CODELAB</a>
     <ul className="permalinks">
       <li><a href="#">Home</a></li>
       <li><a href="#about">About</a></li>
@@ -20,7 +20,7 @@ const Footer = () => {
       <li><a href="#Testimonials">Testimonials</a></li>
       <li><a href="#Contacts">Contacts</a></li>
     </ul>
-    <div className='footer__socials'>
+    <div className="footer__socials">
       <a href="https://facebook.com"><FaFacebookF /></a>
       <a href="https://instagram.com"><FaInstagramSquare /></a>
       <a href="https://twitter.com"><AiFillTwitterSquare /></a>
@@ -32,7 +32,7 @@ const Footer = () => {
       <small>&copy; Ambrose's Codelab All right reserved.</small>
     </div>
     </footer>
-  )
+  );
 }
 
 export default Footer

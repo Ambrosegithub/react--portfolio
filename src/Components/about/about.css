@@ -75,7 +75,7 @@
 /* ################# MEDIUM DEVICES ################# */
 @media screen and (max-width: 1024px) {
   #about {
-    margin-top: 5%;
+    margin-top: 26rem;
   }
 
   .about__container {
@@ -103,6 +103,10 @@
 
   .about__cards {
     grid-template-columns: 1fr 1fr;
+  }
+
+  #about {
+    margin-top: 20%;
   }
 
   .about__content {

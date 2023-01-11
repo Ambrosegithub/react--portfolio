@@ -1,11 +1,11 @@
-import React from 'react'
-import './portfolio.css'
-import image1 from '../../assets/redux1.png'
-import image2 from '../../assets/redux2.png'
-import image3 from '../../assets/redux3.png'
-import image4 from '../../assets/redux4.png'
-import image5 from '../../assets/redux5.png'
-import image6 from '../../assets/rubyrails.png'
+import React from 'react';
+import './portfolio.css';
+import image1 from '../../assets/redux1.png';
+import image2 from '../../assets/redux2.png';
+import image3 from '../../assets/redux3.png';
+import image4 from '../../assets/redux4.png';
+import image5 from '../../assets/redux5.png';
+import image6 from '../../assets/rubyrails.png';
 
 const projectCards = [
   {

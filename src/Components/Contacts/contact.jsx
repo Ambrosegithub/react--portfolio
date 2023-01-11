@@ -1,9 +1,8 @@
-import React from 'react'
-import './contact.css'
-import {MdOutlineMail} from 'react-icons/md'
-import {RiMessengerLine} from 'react-icons/ri'
-import {RiWhatsappLine} from 'react-icons/ri'
-import { useRef } from 'react';
+import React, { useRef } from 'react';
+import './contact.css';
+import { MdOutlineMail } from 'react-icons/md';
+import { RiMessengerLine } from 'react-icons/ri';
+import { RiWhatsappLine } from 'react-icons/ri';
 import emailjs from 'emailjs-com';
 
 const Contact = () => {
@@ -32,12 +31,12 @@ const Contact = () => {
             <h5>Ambrose Isigba David</h5>
             <a href="https://m.me/ambrose.isigba.5/" target="_blank">Send A Message</a>
           </article>
-          <article className="contact__option">
+        <article className="contact__option">
             <RiWhatsappLine className='contact__option-icon' />
             <h4>WhatsApp</h4>
             <h5>+39+</h5>
             <a href="https://wa.me/send?phone+393512462798" target="_blank">Send A Message</a>
-          </article>
+        </article>
         </div>
         {/** END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>

@@ -3,7 +3,7 @@ import './experience.css';
 import { BsFillPatchCheckFill } from 'react-icons/bs';
 import { DiRuby } from 'react-icons/di';
 
-const Experience = () => {
+function Experience() {
   return (
     <section id="Experience">
       <h5>The Skills I Have</h5>
@@ -100,6 +100,6 @@ const Experience = () => {
       </div>
     </section>
   );
-};
+}
 
 export default Experience;

@@ -39,7 +39,7 @@ const About = () => (
           beatae, vero eos ratione.
         </p>
         <a href="#Contacts" className="btn btn-primary">
-          Let\s Talk
+          Let&apos;s Talk
         </a>
       </div>
     </div>

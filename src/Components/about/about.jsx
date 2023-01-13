@@ -29,7 +29,7 @@ const About = () => (
           <article className="about_card">
             <VscFolderLibrary className="about-card-icon" />
             <h5>Projects</h5>
-            <small>20+ Completed</small>
+            <small>30+ Completed</small>
           </article>
         </div>
         <p>

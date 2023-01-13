@@ -1,9 +1,7 @@
 import React from 'react';
 import './footer.css';
-import { FaFacebookF, FaInstagramSquare } from 'react-icons/fa';
 import { AiFillTwitterSquare } from 'react-icons/ai';
 import { BsGithub, BsLinkedin } from 'react-icons/bs';
-import { SiTiktok } from 'react-icons/si';
 
 const Footer = () => (
   <footer id="Footer">
@@ -18,12 +16,9 @@ const Footer = () => (
       <li><a href="#Contacts">Contacts</a></li>
     </ul>
     <div className="footer__socials">
-      <a href="https://facebook.com" aria-label="facebook-icon"><FaFacebookF /></a>
-      <a href="https://instagram.com" aria-label="instagram-icon"><FaInstagramSquare /></a>
-      <a href="https://twitter.com" aria-label="twiter-icon"><AiFillTwitterSquare /></a>
-      <a href="https://github.com" aria-label="github-icon"><BsGithub /></a>
-      <a href="https://tiktok.com" aria-label="tiktok-icon"><SiTiktok /></a>
-      <a href="https://linkedin.com" aria-label="linkedin-icon"><BsLinkedin /></a>
+      <a href="https://twitter.com/Glorious851" target="_blank" rel="noreferrer" aria-label="twiter-icon"><AiFillTwitterSquare /></a>
+      <a href="https://github.com/Ambrosegithub" target="_blank" rel="noreferrer" aria-label="github-icon"><BsGithub /></a>
+      <a href="https://www.linkedin.com/in/ambrose-isigba/" target="_blank" rel="noreferrer" aria-label="linkedin-icon"><BsLinkedin /></a>
     </div>
     <div className="footer__copyright">
       <small>&copy; Ambrose&apos;s Codelab All right reserved.</small>

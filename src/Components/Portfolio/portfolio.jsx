@@ -52,7 +52,7 @@ const projectCards = [
   {
     id: 6,
     image: image6,
-    title: 'This App allow you to perform your basic arithmetic operations',
+    title: 'Budget app allow you track all expenses on each of your transactions',
     github: 'https://github.com/Ambrosegithub/Budgetary-App',
     demo: 'https://hidden-island-72337.herokuapp.com/',
   },

@@ -72,7 +72,8 @@ header {
 /* ################# SMALL DEVICES ################# */
 @media screen and (max-width: 600px) {
   header {
-    height: 73vh;
+    height: 80vh;
+    margin-bottom: 14rem;
   }
 
   .header_socials,

@@ -33,10 +33,11 @@ const About = () => (
           </article>
         </div>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nostrum
-          impedit quod officiis tempora necessitatibus eveniet. Assumenda eum
-          incidunt rerum libero voluptates dignissimos? Blanditiis quae libero
-          beatae, vero eos ratione.
+          I have completed several projects including a e-commerce website, a
+          social media platform, and a project management tool. All projects
+          were delivered on-time and received positive feedback from clients.
+          Strong understanding of web development principles and ability to
+          design and implement complex web applications.
         </p>
         <a href="#Contacts" className="btn btn-primary">
           Let&apos;s Talk

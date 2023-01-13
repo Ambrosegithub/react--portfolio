@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# React-- portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React--Portfolio is a responsive web application that acts as placeholder to my bio, exxperience,
+projects completed, services, client's and / or colleague's feedback, contact, and details. 
 
-## Available Scripts
+## Built With
+- Reacts
+- Linters
 
-In the project directory, you can run:
+### Key Features
+- [Header section]
+- [About section]
+- [Experience section]
+- [Services section]
+- [Project section]
+- [Testimonial section]
+- [Contact section]
+- [Footer section]
+- [Functionality to render the page on the broswer ]
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Live Presentation link
+[Live Link](https://isigbaambroseportfolio.netlify.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
+-To get a local copy up and running follow these simple example steps.
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- A Command Line Interface.
+- Setup React App
+- A code editor like Visual Studio Clone.
+- Git installed.
+- 
 
-### `npm run build`
+To check if you have Git installed you can use the commands below:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ```sh
+   $ git --version
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🛠️ Installation & Set Up
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Open the [Repository Link](https://github.com/Ambrosegithub/react--portfolio) of this project in GitHub.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Once the files are on your machine, open capstone-ruby folder in [Visual Studio Code](https://code.visualstudio.com/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Install
+ Start by cloning the repository.
+ 
+- https://github.com/Ambrosegithub/react--portfolio.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  Navigate to the created folder.
 
-## Learn More
+- Initialize your project with Git.
+- Make sure that your project has Postgres database set up.
+- Run rails server and visit http://localhost:3000/  in your browser!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  ### run the following in your terminal:
+  - npm install 
+  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Usage
+--Once you have your repository cloned on your machine, feel free to modify it as needed.
+- To add your own page
 
-### Code Splitting
+  
+## Author(s)
+👤 **Isigba Ambrose**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GitHub: [@Ambrosegithub](https://github.com/Ambrosegithub)
+- Twitter: [@Glorious12](https://twitter.com/Glorious851)
+- LinkedIn: [Ambrose Isigba](https://www.linkedin.com/in/ambrose-isigba/)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Contributing
 
-### Making a Progressive Web App
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Feel free to check the [issues page](https://github.com/Ambrosegithub/react--portfolio/issues).
 
-### Advanced Configuration
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Give a ⭐ if you like this project!
 
-### Deployment
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+-Hat tip to all documentations used
+-Inspiration 
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ❓ FAQ
+
+
+#### [Question_1] Do I need to have a program to manage the database. 
+
+##### [Answer_1] Yes you need postgesql or sqllite ,check installation online.
+
+#### [Question_2] Can I access the owner database .
+
+##### [Answer_2]No because its on their local database .
+
+## 📝 License
+This project is MIT licensed.

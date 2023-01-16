@@ -63,7 +63,7 @@ function Experience() {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>RUB</h4>
+                <h4>RUBY</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>

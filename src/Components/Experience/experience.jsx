@@ -6,7 +6,7 @@ import { DiRuby } from 'react-icons/di';
 function Experience() {
   return (
     <section id="Experience">
-      <h5>The Skills I Have</h5>
+      <h5>My Skills</h5>
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>Frontend Development</h3>

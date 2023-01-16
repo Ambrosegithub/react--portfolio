@@ -1,6 +1,6 @@
 header {
   height: 100vh;
-  padding-top: 7rem;
+  padding-top: 3rem;
   overflow: hidden;
 }
 
@@ -64,8 +64,8 @@ header {
 /* ################# MEDIUM DEVICES ################# */
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
-    margin-bottom: 10rem;
+    height: 60vh;
+    margin-bottom: 2rem;
   }
 }
 
@@ -73,7 +73,7 @@ header {
 @media screen and (max-width: 600px) {
   header {
     height: 80vh;
-    margin-bottom: 14rem;
+    margin-bottom: 10rem;
   }
 
   .header_socials,

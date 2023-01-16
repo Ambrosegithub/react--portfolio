@@ -54,7 +54,7 @@ const projectCards = [
     image: image6,
     title: 'LeaderBoard-Api send and receive data to/from the server, built with JavaScript, HTML, AND CSS.',
     github: 'https://github.com/Ambrosegithub/LeaderBoard-Api',
-    demo: 'https://react-portfolio-3oepbav6p-ambrosegithub.vercel.app/',
+    demo: 'https://ambroseleaderboard.netlify.app/',
   },
 ];
 

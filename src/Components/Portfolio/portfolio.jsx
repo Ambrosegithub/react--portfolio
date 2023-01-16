@@ -7,14 +7,14 @@ import image2 from '../../assets/redux2.png';
 import image3 from '../../assets/redux3.png';
 import image4 from '../../assets/redux4.png';
 import image5 from '../../assets/redux5.png';
-import image6 from '../../assets/rubyrails.png';
+import image6 from '../../assets/leader.png';
 
 const projectCards = [
   {
     id: 1,
     image: image1,
     title:
-      'This an online e-commerce store where you can buy your quality product',
+      'E-commerce store  app where you can buy your quality product built with (REACT, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/react-redux-capstone',
     demo: 'https://ambroseonlineboutique.netlify.app/',
   },
@@ -22,7 +22,7 @@ const projectCards = [
     id: 2,
     image: image2,
     title:
-      'This an online e-commerce store where you can buy your quality product',
+      'This app allow users add their routine tasks/itinery built with (JavaScript, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/Task-List-App',
     demo: 'https://ambrosegithub.github.io/Task-List-App/',
   },
@@ -30,7 +30,7 @@ const projectCards = [
     id: 3,
     image: image3,
     title:
-      'This an online libray where to can add and remove books from the store',
+      'A libray App where to can add and remove books from the store built with (JavaScript, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/react-book-store',
     demo: 'https://ambrose-library.netlify.app/',
   },
@@ -38,23 +38,23 @@ const projectCards = [
     id: 4,
     image: image4,
     title:
-      'This React App allow you to perform your basic arithmetic operations ',
+      'This React App allow you to perform your basic arithmetic operations built with (React, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/math-magician',
     demo: 'https://ambrose-math.netlify.app/',
   },
   {
     id: 5,
     image: image5,
-    title: 'An Online conference website for YEHO professionals',
+    title: 'An Online conference website for YEHO professionals built with (JavaScript, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/Capstone-project1',
     demo: 'https://ambrosegithub.github.io/Capstone-project1/',
   },
   {
     id: 6,
     image: image6,
-    title: 'Budget app allow you track all expenses on each of your transactions',
-    github: 'https://github.com/Ambrosegithub/Budgetary-App',
-    demo: 'https://hidden-island-72337.herokuapp.com/',
+    title: 'LeaderBoard-Api send and receive data to/from the server, built with JavaScript, HTML, AND CSS.',
+    github: 'https://github.com/Ambrosegithub/LeaderBoard-Api',
+    demo: 'https://ambroseleaderboard.netlify.app/',
   },
 ];
 

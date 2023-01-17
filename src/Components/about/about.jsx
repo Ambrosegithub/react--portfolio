@@ -33,7 +33,7 @@ const About = () => (
           </article>
         </div>
         <p>
-          I have completed several projects including a e-commerce website, a
+          I have completed several projects including an e-commerce website, a
           social media platform, and a project management tool. All projects
           were delivered on-time and received positive feedback from clients.
           Strong understanding of web development principles and ability to

@@ -14,7 +14,7 @@ const projectCards = [
     id: 1,
     image: image1,
     title:
-      'E-commerce store  app where you can buy your quality product built with (REACT, HTML, and CSS).',
+      'E-commerce store  app where you can buy your quality product. Built with (REACT, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/react-redux-capstone',
     demo: 'https://ambroseonlineboutique.netlify.app/',
   },
@@ -22,7 +22,7 @@ const projectCards = [
     id: 2,
     image: image2,
     title:
-      'This app allow users add their routine tasks/itinery built with (JavaScript, HTML, and CSS).',
+      'This app allows users to add their routine tasks/itinery. Built with (JavaScript, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/Task-List-App',
     demo: 'https://ambrosegithub.github.io/Task-List-App/',
   },
@@ -30,7 +30,7 @@ const projectCards = [
     id: 3,
     image: image3,
     title:
-      'A libray App where to can add and remove books from the store built with (JavaScript, HTML, and CSS).',
+      'A libray App where you can add and remove books from the store. Built with (JavaScript, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/react-book-store',
     demo: 'https://ambrose-library.netlify.app/',
   },
@@ -38,21 +38,21 @@ const projectCards = [
     id: 4,
     image: image4,
     title:
-      'This React App allow you to perform your basic arithmetic operations built with (React, HTML, and CSS).',
+      'This React App allow you to perform your basic arithmetic operations. Built with (React, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/math-magician',
     demo: 'https://ambrose-math.netlify.app/',
   },
   {
     id: 5,
     image: image5,
-    title: 'An Online conference website for YEHO professionals built with (JavaScript, HTML, and CSS).',
+    title: 'An Online conference website for YEHO professionals. Built with (JavaScript, HTML, and CSS).',
     github: 'https://github.com/Ambrosegithub/Capstone-project1',
     demo: 'https://ambrosegithub.github.io/Capstone-project1/',
   },
   {
     id: 6,
     image: image6,
-    title: 'LeaderBoard-Api send and receive data to/from the server, built with JavaScript, HTML, AND CSS.',
+    title: 'LeaderBoard-Api send and receive data to/from the server. Built with JavaScript, HTML, AND CSS.',
     github: 'https://github.com/Ambrosegithub/LeaderBoard-Api',
     demo: 'https://ambroseleaderboard.netlify.app/',
   },
